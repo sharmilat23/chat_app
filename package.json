@@ -1,0 +1,26 @@
+{
+  "name": "basic-chat-front-end",
+  "version": "1.0.0",
+  "description": "This README details the frontend setup for a real-time chat application using HTML, CSS, and JavaScript with Socket.IO.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thissayantan/basic-chat-front-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thissayantan/basic-chat-front-end/issues"
+  },
+  "homepage": "https://github.com/thissayantan/basic-chat-front-end#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
